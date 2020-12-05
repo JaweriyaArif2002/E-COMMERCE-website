@@ -1,0 +1,102 @@
+.navbar{
+    background-color:#D32F2F !important;
+}
+.nav-link{
+    color: white !important;
+    font-weight: bold;
+}
+.fa-shopping-cart,.fa-user-circle-o{
+    font-size: 32px !important
+}
+.fa-truck ,.fa-headphones,.fa-thumbs-up{
+    font-size: 50px !important;
+    margin-right: 10px;
+    color:#D32F2F !important;
+}
+.card1,.card2,.card3
+{
+    display: flex;
+    width: 300px;
+  
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    
+    margin-top: 10px;
+    
+}
+.maincard{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+h3{
+    color:#D32F2F !important;
+}
+.card{
+
+    height: auto !important;
+    width: 250px;
+    margin-bottom: 10px;
+}
+
+.newArrival{
+    margin-top: 50px;
+}
+.card-text{
+    font-weight: bold;
+}
+
+
+.btn-primary{
+    width: 100%;
+    background-color:#D32F2F !important ;
+}
+.heading{
+    text-align: center;
+    font-weight: bold;
+    color: #D32F2F !important;
+    margin: 20px;
+    font-size: 44px;
+}
+
+
+.heading >h1{
+    text-shadow: 2px 2px 4px black;
+}
+
+.footer1{
+    background-color: #D32F2F;
+    height: 230px;
+    width: auto;
+    padding: 40px;
+    
+    
+}
+.paragraph{
+    
+    
+    color: white;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.fa-instagram,.fa-facebook-square,.fa-twitter,.fa-linkedin-square,.fa-youtube-square{
+    color: #D32F2F;
+    font-size: 32px !important
+    
+}
+
+
+
+
+
+
+
+
+@media screen and (max-width:600px)
+{
+.card1,.card2,.card3
+}
